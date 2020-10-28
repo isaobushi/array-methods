@@ -1,4 +1,4 @@
-# rob\_
+# andrea\_
 
 My own implementation of a number of JavaScript's array functions
 
@@ -13,7 +13,7 @@ To learn more about higher order functions, callbacks, testing and how JavaScrip
 ## Requirements
 
 1. Array functions are exported by the one ES6 module so that they can be imported like:
-   `import { every } from 'rob_';`
+   `import { every } from 'andrea_';`
 1. Each function has a minimal test suite that ensures that they're functioning correctly
 1. Each function and its tests are implemented in a unique branch and merged into `main` when approved
 
